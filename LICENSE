@@ -1,21 +1,15 @@
-MIT License
+# PoolUp! Development License Agreement
 
-Copyright (c) 2024 TeamPoolUp
+## License Grant
+You are granted permission to modify, develop, and work with the code within this repository **only within the team or organization** that has explicit access to it. This repository is to be used **for internal purposes only**.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Restrictions
+- **No Public Distribution**: You are not allowed to redistribute, share, or publicly disclose any part of this code, whether modified or unmodified, to anyone outside the team or organization with authorized access.
+- **No External Access**: This repository and its contents are confidential and must not be shared with or accessed by any third parties outside the organization. Unauthorized access to this repository is prohibited.
+- **No Commercial Use**: This code cannot be used for any commercial purposes, either internally or externally, without explicit written permission from the repository owner.
+- **Internal Usage Only**: The code is to be used solely for internal purposes within the organization. Any use outside of the organization requires permission.
+- **Portfolio Usage**: You are allowed to showcase your contributions, such as screenshots, design work, or summaries of the features you've developed, in your **portfolio** or other personal projects. **However, you may not disclose the actual source code in any form** (e.g., no code snippets or repository links that expose the code) in **any public-facing materials**.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Enforcement
+Violation of this agreement will result in immediate revocation of access to the repository and may lead to legal action.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
